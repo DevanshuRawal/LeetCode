@@ -47,6 +47,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/devanshurawal/LeetCode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/devanshurawal/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/devanshurawal/LeetCode/tree/master/0029-divide-two-integers) |
 ## Bit Manipulation
 |  |
