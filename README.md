@@ -40,3 +40,11 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 ---
 
 ⭐ If you find this repository helpful, feel free to star it!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/devanshurawal/LeetCode/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
