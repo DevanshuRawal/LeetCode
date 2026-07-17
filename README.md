@@ -49,6 +49,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [0007-reverse-integer](https://github.com/devanshurawal/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/devanshurawal/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/devanshurawal/LeetCode/tree/master/0029-divide-two-integers) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/devanshurawal/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devanshurawal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devanshurawal/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -58,6 +59,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 ## Array
 |  |
 | ------- |
+| [2348-number-of-zero-filled-subarrays](https://github.com/devanshurawal/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devanshurawal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devanshurawal/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
