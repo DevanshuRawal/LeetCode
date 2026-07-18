@@ -6,7 +6,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 
 ## 📌 About
 
-- 💻 Language: Java
+- 💻 Language: Java , JavaScript , MySql
 - 📚 Platform: LeetCode
 - 🎯 Goal: Improve problem-solving skills and prepare for coding interviews.
 - 🔄 Repository is automatically updated using LeetHub.
