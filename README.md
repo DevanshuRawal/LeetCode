@@ -59,6 +59,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/devanshurawal/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/devanshurawal/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devanshurawal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devanshurawal/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -73,6 +74,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/devanshurawal/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devanshurawal/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -115,4 +117,8 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/devanshurawal/LeetCode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
