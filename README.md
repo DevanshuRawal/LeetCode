@@ -84,6 +84,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/devanshurawal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devanshurawal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
@@ -104,6 +105,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/devanshurawal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
@@ -121,4 +123,8 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/devanshurawal/LeetCode/tree/master/1260-shift-2d-grid) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/devanshurawal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
