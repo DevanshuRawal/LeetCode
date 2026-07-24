@@ -52,12 +52,14 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [2348-number-of-zero-filled-subarrays](https://github.com/devanshurawal/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devanshurawal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/devanshurawal/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/devanshurawal/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devanshurawal/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/devanshurawal/LeetCode/tree/master/0029-divide-two-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/devanshurawal/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/devanshurawal/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +68,7 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 | [3312-sorted-gcd-pair-queries](https://github.com/devanshurawal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/devanshurawal/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/devanshurawal/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/devanshurawal/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devanshurawal/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -137,4 +140,8 @@ This repository contains my solutions to LeetCode problems as I practice Data St
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/devanshurawal/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/devanshurawal/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
