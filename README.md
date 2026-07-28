@@ -1,43 +1,76 @@
 # 🚀 LeetCode Solutions
 
-Welcome to my LeetCode Solutions repository!
+Welcome to my LeetCode Solutions repository! 👋
 
-This repository contains my solutions to LeetCode problems as I practice Data Structures and Algorithms (DSA) using Java.
+This repository contains my solutions to LeetCode problems that I solve regularly to improve my Data Structures & Algorithms (DSA), problem-solving, and SQL skills.
 
-## 📌 About
+I practice LeetCode using Java, JavaScript, and MySQL, and my solutions are automatically synced to this repository using LeetHub.
 
-- 💻 Language: Java , JavaScript , MySql
-- 📚 Platform: LeetCode
-- 🎯 Goal: Improve problem-solving skills and prepare for coding interviews.
-- 🔄 Repository is automatically updated using LeetHub.
+📌 About
 
-## 📊 Progress
+💻 Languages: Java, JavaScript, MySQL
+📚 Platform: LeetCode
+🧠 Focus: DSA, Problem Solving & SQL
+🎯 Goal: Improve coding skills and prepare for technical interviews
+🔄 Automation: Solutions are automatically synced using LeetHub
 
-- ✅ Solving problems consistently
-- 🧠 Covering topics from Beginner to Advanced
-- 🚀 Preparing for Product-Based Companies
+📊 Progress
 
-## 📂 Topics Covered
+✅ Solving LeetCode problems consistently
+☕ Practicing DSA with Java
+🟨 Practicing problem-solving with JavaScript
+🗄️ Practicing SQL using MySQL
+🧠 Covering topics from Beginner to Advanced
+🚀 Preparing for Software Development & Technical Interviews
 
-- Arrays
-- Strings
-- Math
-- Functions
-- Loops
-- Recursion
-- Searching
-- Sorting
-- Linked List
-- Stack
-- Queue
-- Trees
-- Graphs
-- Dynamic Programming
-- Greedy
-- Backtracking
-- Bit Manipulation
+📂 Topics Covered
 
----
+🧩 Data Structures & Algorithms
+Arrays
+Strings
+Hash Table
+Linked List
+Stack
+Queue
+Trees
+Graphs
+Recursion
+Backtracking
+
+⚡ Algorithms & Techniques
+
+Searching
+Sorting
+Binary Search
+Two Pointers
+Sliding Window
+Prefix Sum
+Greedy
+Dynamic Programming
+Bit Manipulation
+Mathematical Algorithms
+
+🗄️ SQL / MySQL
+
+SELECT & WHERE
+JOINs
+GROUP BY
+ORDER BY
+Aggregate Functions
+Subqueries
+String Functions
+Date Functions
+Window Functions
+
+🔄 Automatic LeetCode Sync
+
+This repository is automatically updated using LeetHub.
+
+Whenever I solve a LeetCode problem, the solution is automatically pushed to this GitHub repository, allowing me to maintain a record of my coding practice and progress.
+
+🎯 Goal
+
+Practice consistently → Improve problem-solving → Build strong DSA fundamentals → Prepare for technical interviews 🚀
 
 ⭐ If you find this repository helpful, feel free to star it!
 
