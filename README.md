@@ -25,7 +25,7 @@ I practice LeetCode using Java, JavaScript, and MySQL, and my solutions are auto
 
 📂 Topics Covered
 
-🧩 Data Structures & Algorithm
+🧩 Data Structures & Algorithms
 Arrays
 Strings
 Hash Table
