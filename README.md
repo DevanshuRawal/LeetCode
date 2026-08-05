@@ -237,4 +237,16 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/devanshurawal/LeetCode/tree/master/1406-stone-game-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/devanshurawal/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/devanshurawal/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/devanshurawal/LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
