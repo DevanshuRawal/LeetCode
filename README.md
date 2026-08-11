@@ -114,6 +114,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [1260-shift-2d-grid](https://github.com/devanshurawal/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/devanshurawal/LeetCode/tree/master/1406-stone-game-iii) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/devanshurawal/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devanshurawal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devanshurawal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/devanshurawal/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/devanshurawal/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -129,6 +130,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshurawal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devanshurawal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devanshurawal/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/devanshurawal/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/devanshurawal/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -150,6 +152,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devanshurawal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devanshurawal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devanshurawal/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devanshurawal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devanshurawal/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
