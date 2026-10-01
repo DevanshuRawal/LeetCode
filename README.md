@@ -240,6 +240,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devanshurawal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/devanshurawal/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/devanshurawal/LeetCode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/devanshurawal/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/devanshurawal/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -261,6 +262,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/devanshurawal/LeetCode/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -417,4 +419,8 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | ------- |
 | [0836-rectangle-overlap](https://github.com/devanshurawal/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/devanshurawal/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/devanshurawal/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
