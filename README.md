@@ -86,6 +86,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshurawal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/devanshurawal/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/devanshurawal/LeetCode/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/devanshurawal/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/devanshurawal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/devanshurawal/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/devanshurawal/LeetCode/tree/master/1406-stone-game-iii) |
@@ -408,6 +409,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0486-predict-the-winner](https://github.com/devanshurawal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/devanshurawal/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/devanshurawal/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/devanshurawal/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/devanshurawal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/devanshurawal/LeetCode/tree/master/1406-stone-game-iii) |
@@ -624,4 +626,8 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/devanshurawal/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/devanshurawal/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
