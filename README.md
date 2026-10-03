@@ -115,6 +115,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/devanshurawal/LeetCode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/devanshurawal/LeetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/devanshurawal/LeetCode/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/devanshurawal/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/devanshurawal/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -125,6 +126,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devanshurawal/LeetCode/tree/master/0011-container-with-most-water) |
+| [0136-single-number](https://github.com/devanshurawal/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/devanshurawal/LeetCode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/devanshurawal/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devanshurawal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
