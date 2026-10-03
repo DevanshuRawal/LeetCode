@@ -423,6 +423,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/devanshurawal/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/devanshurawal/LeetCode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/devanshurawal/LeetCode/tree/master/0872-leaf-similar-trees) |
@@ -434,6 +435,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/devanshurawal/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/devanshurawal/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/devanshurawal/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -478,6 +480,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/devanshurawal/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/devanshurawal/LeetCode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/devanshurawal/LeetCode/tree/master/0872-leaf-similar-trees) |
@@ -488,6 +491,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/devanshurawal/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/devanshurawal/LeetCode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/devanshurawal/LeetCode/tree/master/0872-leaf-similar-trees) |
