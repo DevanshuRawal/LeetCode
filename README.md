@@ -382,6 +382,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0877-stone-game](https://github.com/devanshurawal/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/devanshurawal/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/devanshurawal/LeetCode/tree/master/1140-stone-game-ii) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/devanshurawal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devanshurawal/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devanshurawal/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -424,6 +425,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0104-maximum-depth-of-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/devanshurawal/LeetCode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/devanshurawal/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devanshurawal/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/devanshurawal/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -477,6 +479,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0104-maximum-depth-of-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/devanshurawal/LeetCode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/devanshurawal/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devanshurawal/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -485,6 +488,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0104-maximum-depth-of-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/devanshurawal/LeetCode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/devanshurawal/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devanshurawal/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
@@ -510,4 +514,8 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/devanshurawal/LeetCode/tree/master/0933-number-of-recent-calls) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
