@@ -141,6 +141,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/devanshurawal/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/devanshurawal/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/devanshurawal/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/devanshurawal/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/devanshurawal/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/devanshurawal/LeetCode/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/devanshurawal/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -350,6 +351,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0032-longest-valid-parentheses](https://github.com/devanshurawal/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0394-decode-string](https://github.com/devanshurawal/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/devanshurawal/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/devanshurawal/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devanshurawal/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/devanshurawal/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -377,6 +379,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/devanshurawal/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
