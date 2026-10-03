@@ -273,6 +273,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0032-longest-valid-parentheses](https://github.com/devanshurawal/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/devanshurawal/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/devanshurawal/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/devanshurawal/LeetCode/tree/master/0394-decode-string) |
 | [0940-distinct-subsequences-ii](https://github.com/devanshurawal/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devanshurawal/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -298,6 +299,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | ------- |
 | [0020-valid-parentheses](https://github.com/devanshurawal/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/devanshurawal/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0394-decode-string](https://github.com/devanshurawal/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/devanshurawal/LeetCode/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/devanshurawal/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -359,6 +361,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/devanshurawal/LeetCode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/devanshurawal/LeetCode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/devanshurawal/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/devanshurawal/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
