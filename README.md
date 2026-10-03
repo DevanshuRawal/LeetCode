@@ -117,6 +117,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0029-divide-two-integers](https://github.com/devanshurawal/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/devanshurawal/LeetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/devanshurawal/LeetCode/tree/master/0338-counting-bits) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/devanshurawal/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/devanshurawal/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/devanshurawal/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/devanshurawal/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
