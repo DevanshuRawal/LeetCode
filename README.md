@@ -352,6 +352,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0394-decode-string](https://github.com/devanshurawal/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/devanshurawal/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/devanshurawal/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/devanshurawal/LeetCode/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devanshurawal/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/devanshurawal/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -380,6 +381,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/devanshurawal/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/devanshurawal/LeetCode/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
@@ -604,6 +606,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/devanshurawal/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0901-online-stock-span](https://github.com/devanshurawal/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/devanshurawal/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/devanshurawal/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
@@ -614,6 +617,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/devanshurawal/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/devanshurawal/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## DP on Trees
 |  |
