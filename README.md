@@ -254,6 +254,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0392-is-subsequence](https://github.com/devanshurawal/LeetCode/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/devanshurawal/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devanshurawal/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devanshurawal/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/devanshurawal/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1927-sum-game](https://github.com/devanshurawal/LeetCode/tree/master/1927-sum-game) |
@@ -306,6 +307,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devanshurawal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/devanshurawal/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devanshurawal/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devanshurawal/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/devanshurawal/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devanshurawal/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
