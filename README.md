@@ -132,6 +132,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0486-predict-the-winner](https://github.com/devanshurawal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshurawal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/devanshurawal/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/devanshurawal/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/devanshurawal/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/devanshurawal/LeetCode/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/devanshurawal/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -342,6 +343,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | ------- |
 | [0011-container-with-most-water](https://github.com/devanshurawal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0649-dota2-senate](https://github.com/devanshurawal/LeetCode/tree/master/0649-dota2-senate) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/devanshurawal/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/devanshurawal/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devanshurawal/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -414,6 +416,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0198-house-robber](https://github.com/devanshurawal/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/devanshurawal/LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/devanshurawal/LeetCode/tree/master/0486-predict-the-winner) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/devanshurawal/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/devanshurawal/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/devanshurawal/LeetCode/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/devanshurawal/LeetCode/tree/master/0877-stone-game) |
