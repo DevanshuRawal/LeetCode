@@ -148,6 +148,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devanshurawal/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/devanshurawal/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/devanshurawal/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/devanshurawal/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/devanshurawal/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/devanshurawal/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/devanshurawal/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -180,6 +181,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [1679-max-number-of-k-sum-pairs](https://github.com/devanshurawal/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/devanshurawal/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devanshurawal/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/devanshurawal/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/devanshurawal/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/devanshurawal/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devanshurawal/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -193,6 +195,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devanshurawal/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/devanshurawal/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/devanshurawal/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/devanshurawal/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/devanshurawal/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/devanshurawal/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devanshurawal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -249,6 +252,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0374-guess-number-higher-or-lower](https://github.com/devanshurawal/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/devanshurawal/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devanshurawal/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/devanshurawal/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devanshurawal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/devanshurawal/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/devanshurawal/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
