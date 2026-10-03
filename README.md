@@ -133,6 +133,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0215-kth-largest-element-in-an-array](https://github.com/devanshurawal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/devanshurawal/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0399-evaluate-division](https://github.com/devanshurawal/LeetCode/tree/master/0399-evaluate-division) |
+| [0435-non-overlapping-intervals](https://github.com/devanshurawal/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/devanshurawal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshurawal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/devanshurawal/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -204,6 +205,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/devanshurawal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/devanshurawal/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshurawal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1268-search-suggestions-system](https://github.com/devanshurawal/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devanshurawal/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -353,6 +355,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devanshurawal/LeetCode/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/devanshurawal/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0649-dota2-senate](https://github.com/devanshurawal/LeetCode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/devanshurawal/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -428,6 +431,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0198-house-robber](https://github.com/devanshurawal/LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/devanshurawal/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/devanshurawal/LeetCode/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/devanshurawal/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/devanshurawal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/devanshurawal/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/devanshurawal/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
