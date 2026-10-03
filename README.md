@@ -144,6 +144,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [2213-longest-substring-of-one-repeating-character](https://github.com/devanshurawal/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/devanshurawal/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/devanshurawal/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/devanshurawal/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/devanshurawal/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devanshurawal/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devanshurawal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -194,6 +195,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | ------- |
 | [1260-shift-2d-grid](https://github.com/devanshurawal/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/devanshurawal/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2352-equal-row-and-column-pairs](https://github.com/devanshurawal/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/devanshurawal/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devanshurawal/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -213,6 +215,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [1657-determine-if-two-strings-are-close](https://github.com/devanshurawal/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/devanshurawal/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/devanshurawal/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/devanshurawal/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devanshurawal/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devanshurawal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devanshurawal/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -317,6 +320,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | ------- |
 | [0835-image-overlap](https://github.com/devanshurawal/LeetCode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/devanshurawal/LeetCode/tree/master/1260-shift-2d-grid) |
+| [2352-equal-row-and-column-pairs](https://github.com/devanshurawal/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/devanshurawal/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sliding Window
 |  |
