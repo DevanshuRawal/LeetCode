@@ -308,6 +308,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0649-dota2-senate](https://github.com/devanshurawal/LeetCode/tree/master/0649-dota2-senate) |
 | [0940-distinct-subsequences-ii](https://github.com/devanshurawal/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/devanshurawal/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devanshurawal/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devanshurawal/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/devanshurawal/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -419,6 +420,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0940-distinct-subsequences-ii](https://github.com/devanshurawal/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/devanshurawal/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/devanshurawal/LeetCode/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/devanshurawal/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/devanshurawal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devanshurawal/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -638,4 +640,8 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/devanshurawal/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/devanshurawal/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
