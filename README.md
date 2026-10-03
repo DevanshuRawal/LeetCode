@@ -124,6 +124,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | ------- |
 | [0011-container-with-most-water](https://github.com/devanshurawal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0162-find-peak-element](https://github.com/devanshurawal/LeetCode/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/devanshurawal/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devanshurawal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/devanshurawal/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0399-evaluate-division](https://github.com/devanshurawal/LeetCode/tree/master/0399-evaluate-division) |
@@ -406,6 +407,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0005-longest-palindromic-substring](https://github.com/devanshurawal/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/devanshurawal/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/devanshurawal/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0198-house-robber](https://github.com/devanshurawal/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/devanshurawal/LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/devanshurawal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/devanshurawal/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
