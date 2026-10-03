@@ -158,6 +158,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devanshurawal/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/devanshurawal/LeetCode/tree/master/0392-is-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/devanshurawal/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devanshurawal/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/devanshurawal/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -243,6 +244,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0020-valid-parentheses](https://github.com/devanshurawal/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/devanshurawal/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/devanshurawal/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0392-is-subsequence](https://github.com/devanshurawal/LeetCode/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/devanshurawal/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devanshurawal/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -327,6 +329,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0005-longest-palindromic-substring](https://github.com/devanshurawal/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/devanshurawal/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/devanshurawal/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0392-is-subsequence](https://github.com/devanshurawal/LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/devanshurawal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/devanshurawal/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/devanshurawal/LeetCode/tree/master/0940-distinct-subsequences-ii) |
