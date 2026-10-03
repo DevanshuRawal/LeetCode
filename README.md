@@ -274,6 +274,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0115-distinct-subsequences](https://github.com/devanshurawal/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/devanshurawal/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/devanshurawal/LeetCode/tree/master/0394-decode-string) |
+| [0649-dota2-senate](https://github.com/devanshurawal/LeetCode/tree/master/0649-dota2-senate) |
 | [0940-distinct-subsequences-ii](https://github.com/devanshurawal/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devanshurawal/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -307,6 +308,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devanshurawal/LeetCode/tree/master/0011-container-with-most-water) |
+| [0649-dota2-senate](https://github.com/devanshurawal/LeetCode/tree/master/0649-dota2-senate) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/devanshurawal/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devanshurawal/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -480,6 +482,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/devanshurawal/LeetCode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/devanshurawal/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
