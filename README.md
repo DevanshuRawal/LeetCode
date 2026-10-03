@@ -135,6 +135,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devanshurawal/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devanshurawal/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/devanshurawal/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/devanshurawal/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/devanshurawal/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/devanshurawal/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devanshurawal/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -244,6 +245,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [1004-max-consecutive-ones-iii](https://github.com/devanshurawal/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/devanshurawal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devanshurawal/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1732-find-the-highest-altitude](https://github.com/devanshurawal/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/devanshurawal/LeetCode/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devanshurawal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/devanshurawal/LeetCode/tree/master/3903-smallest-stable-index-i) |
