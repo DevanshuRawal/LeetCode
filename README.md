@@ -115,6 +115,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/devanshurawal/LeetCode/tree/master/0029-divide-two-integers) |
+| [0338-counting-bits](https://github.com/devanshurawal/LeetCode/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/devanshurawal/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/devanshurawal/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/devanshurawal/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -416,6 +417,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0072-edit-distance](https://github.com/devanshurawal/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/devanshurawal/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/devanshurawal/LeetCode/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/devanshurawal/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/devanshurawal/LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/devanshurawal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/devanshurawal/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
