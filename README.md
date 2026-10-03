@@ -82,6 +82,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0007-reverse-integer](https://github.com/devanshurawal/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/devanshurawal/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/devanshurawal/LeetCode/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/devanshurawal/LeetCode/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/devanshurawal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshurawal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/devanshurawal/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -268,6 +269,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/devanshurawal/LeetCode/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devanshurawal/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devanshurawal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devanshurawal/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -406,6 +408,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devanshurawal/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/devanshurawal/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/devanshurawal/LeetCode/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/devanshurawal/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/devanshurawal/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/devanshurawal/LeetCode/tree/master/0392-is-subsequence) |
