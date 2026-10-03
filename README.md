@@ -121,6 +121,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devanshurawal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0486-predict-the-winner](https://github.com/devanshurawal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshurawal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/devanshurawal/LeetCode/tree/master/0835-image-overlap) |
@@ -158,6 +159,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devanshurawal/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/devanshurawal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0392-is-subsequence](https://github.com/devanshurawal/LeetCode/tree/master/0392-is-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/devanshurawal/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devanshurawal/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -271,6 +273,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devanshurawal/LeetCode/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/devanshurawal/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devanshurawal/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
