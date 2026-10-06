@@ -323,6 +323,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0399-evaluate-division](https://github.com/devanshurawal/LeetCode/tree/master/0399-evaluate-division) |
 | [0649-dota2-senate](https://github.com/devanshurawal/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/devanshurawal/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/devanshurawal/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/devanshurawal/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/devanshurawal/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -355,6 +356,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0735-asteroid-collision](https://github.com/devanshurawal/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/devanshurawal/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/devanshurawal/LeetCode/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/devanshurawal/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devanshurawal/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/devanshurawal/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -367,6 +369,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0649-dota2-senate](https://github.com/devanshurawal/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/devanshurawal/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/devanshurawal/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/devanshurawal/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/devanshurawal/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devanshurawal/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -607,6 +610,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0020-valid-parentheses](https://github.com/devanshurawal/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/devanshurawal/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/devanshurawal/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/devanshurawal/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
 | ------- |
