@@ -318,6 +318,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0072-edit-distance](https://github.com/devanshurawal/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/devanshurawal/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/devanshurawal/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/devanshurawal/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/devanshurawal/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/devanshurawal/LeetCode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/devanshurawal/LeetCode/tree/master/0399-evaluate-division) |
@@ -515,6 +516,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/devanshurawal/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/devanshurawal/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/devanshurawal/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/devanshurawal/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/devanshurawal/LeetCode/tree/master/0841-keys-and-rooms) |
@@ -538,6 +540,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devanshurawal/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/devanshurawal/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/devanshurawal/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/devanshurawal/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
