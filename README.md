@@ -326,6 +326,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0678-valid-parenthesis-string](https://github.com/devanshurawal/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devanshurawal/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/devanshurawal/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/devanshurawal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/devanshurawal/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/devanshurawal/LeetCode/tree/master/1268-search-suggestions-system) |
@@ -358,6 +359,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0739-daily-temperatures](https://github.com/devanshurawal/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/devanshurawal/LeetCode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devanshurawal/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/devanshurawal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devanshurawal/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/devanshurawal/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -614,6 +616,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0032-longest-valid-parentheses](https://github.com/devanshurawal/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/devanshurawal/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devanshurawal/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/devanshurawal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
