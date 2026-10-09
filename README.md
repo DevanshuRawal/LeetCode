@@ -332,6 +332,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [1268-search-suggestions-system](https://github.com/devanshurawal/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devanshurawal/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devanshurawal/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/devanshurawal/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/devanshurawal/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/devanshurawal/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1927-sum-game](https://github.com/devanshurawal/LeetCode/tree/master/1927-sum-game) |
@@ -361,6 +362,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devanshurawal/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/devanshurawal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/devanshurawal/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devanshurawal/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/devanshurawal/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
@@ -376,6 +378,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devanshurawal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/devanshurawal/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devanshurawal/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/devanshurawal/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/devanshurawal/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/devanshurawal/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devanshurawal/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -617,6 +620,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0678-valid-parenthesis-string](https://github.com/devanshurawal/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devanshurawal/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/devanshurawal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/devanshurawal/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Design
 |  |
 | ------- |
