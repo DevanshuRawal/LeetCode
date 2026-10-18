@@ -92,6 +92,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [1401-circle-and-rectangle-overlapping](https://github.com/devanshurawal/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/devanshurawal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/devanshurawal/LeetCode/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devanshurawal/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devanshurawal/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/devanshurawal/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/devanshurawal/LeetCode/tree/master/1927-sum-game) |
@@ -158,6 +159,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [1406-stone-game-iii](https://github.com/devanshurawal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devanshurawal/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devanshurawal/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devanshurawal/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/devanshurawal/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/devanshurawal/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/devanshurawal/LeetCode/tree/master/1872-stone-game-viii) |
@@ -296,6 +298,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/devanshurawal/LeetCode/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devanshurawal/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devanshurawal/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devanshurawal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devanshurawal/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -485,6 +488,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devanshurawal/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devanshurawal/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/devanshurawal/LeetCode/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devanshurawal/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devanshurawal/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/devanshurawal/LeetCode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/devanshurawal/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -584,6 +588,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | ------- |
 | [0399-evaluate-division](https://github.com/devanshurawal/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/devanshurawal/LeetCode/tree/master/0547-number-of-provinces) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devanshurawal/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/devanshurawal/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Manacher
 |  |
@@ -610,6 +615,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devanshurawal/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devanshurawal/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -624,6 +630,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/devanshurawal/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devanshurawal/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devanshurawal/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -673,6 +680,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/devanshurawal/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/devanshurawal/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devanshurawal/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Shortest Path
 |  |
 | ------- |
@@ -689,6 +697,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/devanshurawal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devanshurawal/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -710,6 +719,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/devanshurawal/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devanshurawal/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -723,4 +733,8 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devanshurawal/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devanshurawal/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
