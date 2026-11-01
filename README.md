@@ -83,6 +83,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0009-palindrome-number](https://github.com/devanshurawal/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/devanshurawal/LeetCode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/devanshurawal/LeetCode/tree/master/0062-unique-paths) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/devanshurawal/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/devanshurawal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshurawal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/devanshurawal/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -142,6 +143,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [0399-evaluate-division](https://github.com/devanshurawal/LeetCode/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/devanshurawal/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devanshurawal/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/devanshurawal/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/devanshurawal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshurawal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/devanshurawal/LeetCode/tree/master/0643-maximum-average-subarray-i) |
