@@ -111,6 +111,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [3536-maximum-product-of-two-digits](https://github.com/devanshurawal/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/devanshurawal/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/devanshurawal/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/devanshurawal/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devanshurawal/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/devanshurawal/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/devanshurawal/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -206,6 +207,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [3718-smallest-missing-multiple-of-k](https://github.com/devanshurawal/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/devanshurawal/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/devanshurawal/LeetCode/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/devanshurawal/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/devanshurawal/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devanshurawal/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/devanshurawal/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
