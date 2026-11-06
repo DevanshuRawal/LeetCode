@@ -186,6 +186,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [2352-equal-row-and-column-pairs](https://github.com/devanshurawal/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/devanshurawal/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/devanshurawal/LeetCode/tree/master/2542-maximum-subsequence-score) |
+| [2747-count-zero-request-servers](https://github.com/devanshurawal/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/devanshurawal/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/devanshurawal/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devanshurawal/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -248,6 +249,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/devanshurawal/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/devanshurawal/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2542-maximum-subsequence-score](https://github.com/devanshurawal/LeetCode/tree/master/2542-maximum-subsequence-score) |
+| [2747-count-zero-request-servers](https://github.com/devanshurawal/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/devanshurawal/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devanshurawal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devanshurawal/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -289,6 +291,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [2215-find-the-difference-of-two-arrays](https://github.com/devanshurawal/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/devanshurawal/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/devanshurawal/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [2747-count-zero-request-servers](https://github.com/devanshurawal/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/devanshurawal/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devanshurawal/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devanshurawal/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -463,6 +466,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devanshurawal/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devanshurawal/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devanshurawal/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2747-count-zero-request-servers](https://github.com/devanshurawal/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/devanshurawal/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devanshurawal/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/devanshurawal/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
