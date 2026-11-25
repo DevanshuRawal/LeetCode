@@ -218,6 +218,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [3876-construct-uniform-parity-array-ii](https://github.com/devanshurawal/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/devanshurawal/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/devanshurawal/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3934-smallest-unique-subarray](https://github.com/devanshurawal/LeetCode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/devanshurawal/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
@@ -309,6 +310,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [3718-smallest-missing-multiple-of-k](https://github.com/devanshurawal/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/devanshurawal/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/devanshurawal/LeetCode/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/devanshurawal/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -324,6 +326,7 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 | [3312-sorted-gcd-pair-queries](https://github.com/devanshurawal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/devanshurawal/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/devanshurawal/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3934-smallest-unique-subarray](https://github.com/devanshurawal/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Combinatorics
 |  |
 | ------- |
@@ -799,4 +802,16 @@ Practice consistently → Improve problem-solving → Build strong DSA fundament
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devanshurawal/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/devanshurawal/LeetCode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/devanshurawal/LeetCode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/devanshurawal/LeetCode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
